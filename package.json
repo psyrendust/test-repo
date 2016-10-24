@@ -1,0 +1,20 @@
+{
+  "name": "testrepo",
+  "version": "0.0.0",
+  "description": "Repo to test stuff in",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Larry Gordon <lgordon@psyrendust.com>",
+  "scripts": {
+    "test": "echo \"Warning: no test specified, so go write some!\""
+  },
+  "repository": "psyrendust/test-repo",
+  "keywords": [
+  ],
+  "bugs": {
+    "url": "https://github.com/psyrendust/test-repo/issues"
+  },
+  "homepage": "https://github.com/psyrendust/test-repo",
+  "dependencies": {
+  }
+}
